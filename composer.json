@@ -5,13 +5,11 @@
         "league",
         ":package_name"
     ],
-    "homepage": "https://github.com/thephpsaro91/saropkg",
+    "homepage": "https://github.com/sand91/saro",
     "license": "MIT",
     "authors": [
         {
             "name": ":saro",
-            "email": ":saravanakumar@adyog.com",
-            "homepage": ":author_website",
             "role": "Developer"
         }
     ],
@@ -28,17 +26,5 @@
             "Saro91\\Saropkg\\": "src"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "Saro91\\Saropkg\\Test\\": "tests"
-        }
-    },
-    "scripts": {
-        "test": "phpunit"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    }
+	"minimum-stability":"dev"
 }
