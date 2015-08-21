@@ -1,10 +1,5 @@
 {
     "name": "saro91/saropkg",
-    "description": ":package_description",
-    "keywords": [
-        "league",
-        ":package_name"
-    ],
     "homepage": "https://github.com/sand91/saro",
     "license": "MIT",
     "authors": [
